@@ -2,7 +2,7 @@
 
 <img align="right" src="/Images/t460s-monterey.png" alt="Lenovo Thinkpad T460s macOS Hackintosh OpenCore" width="300">
 
-[![macOS](https://img.shields.io/badge/macOS-12.3.1-blue)](https://developer.apple.com/documentation/macos-release-notes)
+[![macOS](https://img.shields.io/badge/macOS-13.0-yellow)](https://developer.apple.com/documentation/macos-release-notes)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.8.0-green)](https://github.com/acidanthera/OpenCorePkg)
 [![Model](https://img.shields.io/badge/Model-20F9*-lightgrey)](https://psref.lenovo.com/Product/ThinkPad_T460s)
 [![BIOS](https://img.shields.io/badge/BIOS-1.53-yellow)](https://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/thinkpad-t-series-laptops/thinkpad-t460s/downloads/driver-list/component?name=BIOS%2FUEFI)
@@ -492,7 +492,7 @@ A [brief guide referencing other guides](/Guides/Bios-Mod.md).
 
 | [EFI Release](https://github.com/simprecicchiani/ThinkPad-T460s-macOS-OpenCore/releases)       | 0.8.0  |
 |------------------------------------------------------------------------------------------------|--------|
-| [MacOS](https://www.apple.com/macos/)                                                          | 12.3.1 |
+| [MacOS](https://www.apple.com/macos/)                                                          | 13.0   |
 | [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases)                                | 0.8.0  |
 | [Lilu](https://github.com/acidanthera/Lilu/releases)                                           | 1.6.0  |
 | [VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases)                               | 1.2.9  |
