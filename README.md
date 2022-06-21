@@ -483,6 +483,8 @@ A [brief guide referencing other guides](/Guides/Bios-Mod.md).
 - [ ] WWAN (needs to be implemented)
 - [ ] Fingerprint Reader
 - [ ] Bluetooth (You can enable blutooth in the config.plist but it will cause the "volume hash mismatch" problem .Waiting for the solution.
+- [ ] touchpad above three buttons notwork（left，middle，right）
+
 
 </details>
 
@@ -490,28 +492,27 @@ A [brief guide referencing other guides](/Guides/Bios-Mod.md).
 <summary><strong>Update tracker 🔄</strong></summary>
 </br>
 
-| [EFI Release](https://github.com/simprecicchiani/ThinkPad-T460s-macOS-OpenCore/releases)       | 0.8.0  |
+| [EFI Release](https://github.com/simprecicchiani/ThinkPad-T460s-macOS-OpenCore/releases)       | 0.8.2  |
 |------------------------------------------------------------------------------------------------|--------|
 | [MacOS](https://www.apple.com/macos/)                                                          | 13.0   |
-| [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases)                                | 0.8.0  |
-| [Lilu](https://github.com/acidanthera/Lilu/releases)                                           | 1.6.0  |
-| [VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases)                               | 1.2.9  |
+| [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases)                                | 0.8.2  |
+| [Lilu](https://github.com/acidanthera/Lilu/releases)                                           | 1.6.1  |
+| [VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases)                               | 1.3.0  |
 | [YogaSMC](https://github.com/zhen-zen/YogaSMC/releases)                                        | 1.5.1  |
-| [WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases)                         | 1.5.8  |
-| [AppleALC](https://github.com/acidanthera/AppleALC/releases)                                   | 1.7.1  |
+| [WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases)                         | 1.6.0  |
+| [AppleALC](https://github.com/acidanthera/AppleALC/releases)                                   | 1.7.3  |
 | [VoodooPS2Controller](https://github.com/acidanthera/VoodooPS2/releases)                       | 2.2.8  |
-| [VoodooRMI](https://github.com/VoodooSMBus/VoodooRMI/releases)                                 | 1.3.4  |
+| [VoodooRMI](https://github.com/VoodooSMBus/VoodooRMI/releases)                                 | 1.3.5  |
 | [VoodooI2C/VoodooI2CHID](https://github.com/VoodooI2C/VoodooI2C/releases)                      | 2.6.5  |
-| [IntelMausi](https://github.com/acidanthera/IntelMausi/releases)                               | 1.0.7  |
-| [HibernationFixup](https://github.com/acidanthera/HibernationFixup/releases)                   | 1.4.5  |
-| [CPUFriend](https://github.com/acidanthera/CPUFriend/releases)                                 | 1.2.5  |
-| [NVMeFix](https://github.com/acidanthera/NVMeFix/releases)                                     | 1.0.9  |
-| [RTCMemoryFixup](https://github.com/acidanthera/RTCMemoryFixup/releases)                       | 1.0.7  |
+| [IntelMausi](https://github.com/acidanthera/IntelMausi/releases)                               | 1.0.8  |
+| [HibernationFixup](https://github.com/acidanthera/HibernationFixup/releases)                   | 1.4.6  |
+| [NVMeFix](https://github.com/acidanthera/NVMeFix/releases)                                     | 1.1.0  |
+| [RTCMemoryFixup](https://github.com/acidanthera/RTCMemoryFixup/releases)                       | 1.0.8  |
 | [AirportItlwm](https://github.com/OpenIntelWireless/itlwm/releases)                            | 2.2.0  |
 | [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases) | 2.1.0  |
-| [BlueToolFixup](https://github.com/acidanthera/BrcmPatchRAM/releases)                          | 2.6.1  |
+| [BlueToolFixup](https://github.com/acidanthera/BrcmPatchRAM/releases)                          | 2.6.2  |
 | [AppleBacklightSmoother](https://github.com/hieplpvip/AppleBacklightSmoother/releases)         | 1.0.2  |
-| [BrightnessKeys](https://github.com/acidanthera/BrightnessKeys/releases)                       | 1.0.2  |
+| [BrightnessKeys](https://github.com/acidanthera/BrightnessKeys/releases)                       | 1.0.3  |
 | [RealtekCardReader](https://github.com/0xFireWolf/RealtekCardReader/releases)                  | 0.9.6  |
 | [RealtekCardReaderFriend](https://github.com/0xFireWolf/RealtekCardReaderFriend/releases)      | 1.0.2  |
 
