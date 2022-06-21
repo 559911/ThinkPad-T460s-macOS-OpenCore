@@ -1,6 +1,6 @@
 # ThinkPad T460s running macOS (OpenCore bootloader)
 
-<img align="right" src="/Images/t460s-monterey.png" alt="Lenovo Thinkpad T460s macOS Hackintosh OpenCore" width="300">
+<img align="right" src="/Images/T460s-Ventura.jpg" alt="Lenovo Thinkpad T460s macOS Hackintosh OpenCore" width="300">
 
 [![macOS](https://img.shields.io/badge/macOS-13.0-yellow)](https://developer.apple.com/documentation/macos-release-notes)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.8.0-green)](https://github.com/acidanthera/OpenCorePkg)
