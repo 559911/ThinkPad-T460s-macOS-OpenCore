@@ -483,7 +483,7 @@ A [brief guide referencing other guides](/Guides/Bios-Mod.md).
 - [ ] WWAN (needs to be implemented)
 - [ ] Fingerprint Reader
 - [ ] Bluetooth (You can enable blutooth in the config.plist but it will cause the "volume hash mismatch" problem .Waiting for the solution.
-- [ ] touchpad above three buttons notwork（left，middle，right）
+- [ ] Touchpad above three buttons notwork（left，middle，right）
 
 
 </details>
